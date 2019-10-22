@@ -1,0 +1,6 @@
+#I like this code because it was one of my first recuesions
+
+def factorial(n):
+  if n==1:
+    return 1
+  return n*factorial(n-1)
